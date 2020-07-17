@@ -51,7 +51,6 @@ So... let's return to what's a good start: learning, knowledge, and donations.
 I've mentioned learning and knowledge earlier, so I'll end this **action** section with some organizations that I would recommend researching and donating to.
 
 - [ACLU Foundation](https://www.aclu.org/)
-- [Black Lives Matter](https://blacklivesmatter.com/)
 - [NAACP](https://www.naacp.org/)
 
 There are *so* many more organizations, and I recommend doing your own research.
@@ -72,8 +71,8 @@ There was five of us, and I was the only non-Black person there.
 Headlights rounded the corner and the slowest moving police car I had ever seen began to approach us.
 Two officers stared into the faces of my friends and our conversation came to a halt.
 
-It was only after this had happened that I realized I was out of the streetlight's rays.
-I stepped forward to get a clearer look at what was happening.
+It was only after this had happened that I realized I was in the dark, and outside of the streetlight's rays.
+I stepped forward, into those rays, to get a clearer look at what was happening.
 
 The two officers looked at me, now underneath the streetlight, and then the vehicle sped up.
 The car left the neighborhood; thrice the speed that it came.
@@ -87,11 +86,11 @@ Would they believe that this was racially motivated?
 I was never really sure.
 
 I bring this story up now to help reaffirm that the Black **experience** is *beautiful* and *real*, but also demands change.
-It's something that many have only just witnessed for the first time.
+It's something that many have only recently witnessed for the first time.
 
 Sure, there's [intersectionality](https://en.wikipedia.org/wiki/Intersectionality) in my personal, White **experience**.
-I've been called "terrorist" and "Mexican" several times in my youth (I guess Italian, Pakistani, a large European mix, and a summer tan will do that), but this post isn't about me or those with similar **experiences**.
-The point: I will *never* **experience** the injustice that Black people *uniquely* do.
+I've been called "terrorist" and "Mexican" several times in my youth (I guess Italian, Pakistani, a large European mix will do that), but this post isn't about me or those with similar **experiences**.
+The point: I will *never* **experience** the injustices that Black people *uniquely* do.
 
 I ask that my fellow software engineers, and their employers, recognize that while all **experiences** are different, we must do our part to ensure the Black **experience** finds justice.
 I'm naturally optimistic, and I know we can do this.

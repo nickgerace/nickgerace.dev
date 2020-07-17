@@ -5,7 +5,7 @@ title: About
 
 ## Me
 
-Hi. I am Nick, a Software Engineer at [NetApp](https://netapp.com) working on tools and infrastructure.
+Hi. I am Nick, a Software Engineer at [NetApp](https://netapp.com) working on cloud-native software, tools, and infrastructure.
 Want to talk? Please [DM me on Twitter](https://twitter.com/nickgeracehacks) or [send me an email](mailto:nickgerace@hey.com).
 
 ## This Site
