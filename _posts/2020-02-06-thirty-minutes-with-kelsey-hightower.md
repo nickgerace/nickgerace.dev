@@ -3,7 +3,7 @@ layout: post
 title: Thirty Minutes with Kelsey Hightower
 ---
 
-I realize that I haven't blogged since November.
+I realize that I haven't blogged in months.
 It's kind of strange; especially since blogging is very therapeutic for me.
 
 Well, along with changing teams internally at NetApp and navigating the holiday season, I tried to launch a solo podcast.

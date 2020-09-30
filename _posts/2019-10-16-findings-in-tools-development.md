@@ -136,4 +136,4 @@ You wouldn't want your hammer to break in half when hitting a nail, would you?
 Sure, the hammer may rust and wear with age, but rarely will the head detach from the handle.
 
 There's a metaphor there... but this blog post has been going for long enough.
-Time to listen to some Solange and Tool.
+Something something... yeah, I've got nothing.
