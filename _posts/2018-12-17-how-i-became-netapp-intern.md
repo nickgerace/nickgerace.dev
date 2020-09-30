@@ -7,7 +7,7 @@ Your junior year in a Bachelor’s program can be daunting. Partaking in four ye
 
 I found myself in that position around this time last year, but I had little luck in scratching that itch. As a recapitulation...
 
-1. I applied to 35+ internship positions, willing to work anywhere in the United States.
+1. I applied to ~35 internship positions, willing to work anywhere in the United States.
 2. I aimed high, looking at renowned tech companies, video game studios and pseudo-startups.
 3. Almost every single application ended in failure. I did not even receive a response for ~65-70% of them.
 
@@ -50,7 +50,7 @@ I found NetApp repeatably on career sites and within my LinkedIn network.
 NetApp persisted further and further into my search and admittedly...
 I had not heard of NetApp before my job search.
 
-The cloud storage, Fortune-500 juggernaut had slipped right under my nose in the midst of the “sexy” smartphone and multi-media distribution outlets.
+The cloud-focused, Fortune-500, storage juggernaut had slipped right under my nose in the midst of shiny application-driven, and multi-media distribution outlets.
 However, the further and further that I dove into NetApp’s history and portfolio got me more and more excited to apply.
 Sunnyvale companies of such high prestige seemed uncommon to find in North Carolina.
 
@@ -60,12 +60,12 @@ Some students and aspiring interns may not buy into corporate missions and adver
 
 ## The Come Up
 
-My second round of intern applications was a success!
+My second round of internship applications was a success!
 
 - Tailoring my resume and self-presentation towards specific job functions was vital.
 - However, continued practice in computer science and security also enabled me to evolve into a better applicant.
 
-As interviews began to accumulate, NetApp’s Information Security Internship piqued my interest above all.
+As interviews began to accumulate, NetApp’s Information Security internship piqued my interest above all.
 One of the university recruiters reached out with one of the most human and direct emails that I had received thus far.
 That may sound rudimentary, but my inbox contained many robot-like emails and few had the same personality as NetApp emails.
 
@@ -83,12 +83,14 @@ Apart from my extracurricular activities, I had a great conversation with one of
 That may not sound like fun to you... but it was really fun to just "nerd out"!
 
 In these interviews, I could freely express my enthusiasm to learn in conjunction with what skillset I had currently possessed.
+Specifically, my goals were to...
 
-- I wanted to learn more about: information security, networking, and red team engagements in an enterprise setting.
-- I wanted to leverage: my skills in Linux systems, and software engineering abilities from academia
+- **Learn more about**: information security, networking, and red team engagements in an enterprise setting
+- **Leverage previous experience in**: Linux systems, and software engineering abilities from academia
 
 At this point, I was sold.
-The culture, people, interviews, and work experience were not only convincing, but real and transparent. My offer letter had hit my inbox and I was ecstatic. The climate was entirely different than just months prior: 35 denied applications in 2017 and a handful of opportunities at the start of 2018.
+The culture, people, interviews, and work experience were not only convincing, but real and transparent.
+My offer letter had hit my inbox and I was ecstatic. The climate was entirely different than just months prior: ~35 denied applications in 2017 and a handful of opportunities at the start of 2018.
 
 Browsing the articles and pictures of past internship experiences indicated that the same level of care and personality that I had seen was very real. The culture at the full-time level trickled down and persisted at the internship level.
 
@@ -96,7 +98,8 @@ I think you know where this goes next… I decided to sign the offer! Only three
 
 ## Hello There
 
-Three months had transpired and I moved into my miniature (but inexpensive!) dorm room at NC State, located in downtown Raleigh.
+Three months had transpired and I moved into my dorm room at NC State, located in downtown Raleigh.
+*(Side note: I highly recommend checking out local universities for discounted "intern" housing during the summer.)*
 
 Before I knew it, I was on the second day of the job and found myself at the global all-hands meeting for FY2019. NetApp’s fiscal year had (literally) just ended and the interns were on the frontlines helping accomplish next year’s goals. Our teams and partners were being talked about by name. Every contribution that we were going to make was actually going to matter! So exciting, right?
 
@@ -104,10 +107,7 @@ WRONG. I almost $#!% my pants knowing that my lack of knowledge was actually goi
 
 However, I was quickly reassured that my team under Information Security was going to help me learn everything that I need to be a great teammate and contributor. The fright subsided and was immediately replaced with empowerment.
 
-- Our CEO George Kurian was more akin to your favorite sports coach than he was a distant executive.
-- Going team by team and encouraging locker room style speeches from other leaders, the leadership indicated the importance that inclusion and responsibility held for each and every team.
-
-From day two, the people-centric culture and innovation-driven work was not only evident, but it had transformed distant mission statements into boots-on-the-ground battle plans.
+From day two, the people-centric culture and innovation-driven work was not only evident, but it had transformed distant mission statements into boots-on-the-ground, detailed plans.
 
 I can spend forever on what happened next, so... I’ll start with our intern activities and keep it short. Not only were they frequent and really fun, but I still have a pretty large group chat from several friendships made during them. NetApp’s social media pages share a lot about these events, so I have included a list of my favorites!
 
@@ -126,7 +126,7 @@ However, while I might have sold you (and myself) on becoming an intern for the 
 
 ## Go Farther, Faster
 
-Alright, so I brought my upperclassmen level of computer science knowledge, leadership experience from WakeHacks, and my basis for teamwork from several technical jobs. As much as I thought I knew, I really knew so little.
+Alright, so I brought my upperclassmen level of computer science knowledge, leadership experience from WakeHacks, and my basis for teamwork from several technical jobs. As much as I thought I knew, I really knew so little. Conversely, it was also equally important to value my own opinions/knowledge, even with my limited experience.
 
 Knowing your self-worth is critical to being a good teammate, but actualizing your potential through learning what you need to know makes you the most valuable teammate.
 
@@ -134,30 +134,25 @@ So what did I learn? Let’s work in reverse here. By the end of the summer, I w
 
 - What drives and motivates an enterprise like NetApp?
 - What does "success" look like 5, 10, 15, or 20 years into your career?
-- What does Information Security provide if they do not explicitly generate revenue?
-- What are our products/services' primary value propositions and total addressable markets?
-- What skillset do I need to be an effective Red Team Operator or Software Engineer?
+- What does an engineering organization provide if they do not explicitly generate revenue for the company?
+- What are our products/services' primary value propositions, total addressable markets, and overall strategies?
+- What skillset do I need to be an effective engineer?
 - What does teamwork truly mean in an enterprise?
 
-And the answer is… I’M NOT GOING TO TELL YOU.
-
-Yep. That’s it. Blog post is over.
-
-In all sincerity, the true value in an internship is to learn. It may sound rudimentary (even juvenile), but I generated my own questions based on the experience I gathered. What do you want out of your summer? That’s the most important question.
+These questions are difficult to answer succintly. It's my belief that finding your own answers to your own answer will *truly* propel you towards what you want to do!
+*(With that being said, intern candidates, please feel free to reach out on LinkedIn at any time if you'd like to talk.)*
 
 A lot of my job revolved around vulnerability management, providing an undergraduate perspective, and improving my technical expertise to become an asset to operational security.
 
 With the guidance of incredible teammates, I began to automate some of my penetration testing and general work with Bash and Python. We began to apply the same principles to other tools before the summer’s end. Getting trained in using tools such as Empire, Metasploit and Burp Suite helped generate my own creativity both inside and outside of work.
 
-Having a team full of teachers enabled me to reinvest my own desires and ideas back into the company. NetApp’s culture empowers its teams to work as a unit and allow individual contributors to actualize their skillsets by solving things on their own.
+Having a team full of teachers enabled me to reinvest my own desires and ideas back into the company. NetApp’s culture empowers its teams to both work as a unit, and to allow individual contributors solve things on their own and harden their skillsets.
 
 In fact, there is no pressure on learning outside of your usual scope. It’s encouraged to do so.
+You are empowered as an engineer, operator or any kind of individual contributor to learn, grow and innovate without being told to do so.
+Throughout the summer, I learned a ton about my own interests, but I will touch on that later.
 
-- You are empowered as an engineer, operator or any kind of individual contributor to learn, grow and innovate without being told to do so.
-- I spent a lot of time with Information Technology, Engineering and Network Security.
-- I learned a ton about my own interests, but I will touch on that later.
-
-My knowledge base in cyber security grew exponentially alongside my own understandings on how to be part of an enterprise team. The soft skills are just as invaluable as the hard skills. It's difficult to have one exist without the other and be an effective teammate.
+My knowledge base in the "technical" side grew dramatically alongside my own understandings of how to be part of an enterprise team. The "soft" skills are just as invaluable as the "technical" skills. It's difficult to have one exist without the other and be an effective teammate.
 
 You’ll take this knowledge away with you and even more at NetApp. Your contributions matter. You are responsible, but you are also supported and empowered by your teammates.
 
@@ -167,7 +162,7 @@ I am getting paid nothing to write this blog post. My reasons are selfish: to ge
 
 I have just recently accepted an offer to return to NetApp as a Software Engineer following graduation! I am so fortunate to be able to pursue this opportunity, but you might have noticed that I did not return to the same role.
 
-Make no mistake, teams may vary. However, the push for you and your colleagues to be happy and do great things in a relaxed, yet passionate, environment leads to potential crossovers within the company.
+Make no mistake; teams may vary. However, the push for you and your colleagues to be happy and do great things in a relaxed, yet passionate, environment leads to potential crossovers within the company.
 
 I believe that the empowerment to actualize your interests and skills as an individual contributor is unparalleled at NetApp.
 
