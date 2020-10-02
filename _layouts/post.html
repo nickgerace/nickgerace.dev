@@ -7,7 +7,8 @@ layout: default
     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
     <p class="meta">
       {{ page.date | date: "%B %-d, %Y" }}
-      {% if page.author %} - {{ page.author }}{% endif %}
+      {% if page.minutes %} | {{ page.minutes }} minute read{% endif %}
+      {% if page.author %} | {{ page.author }}{% endif %}
     </p>
   </header>
   <section class="post-content">{{ content }}</section>

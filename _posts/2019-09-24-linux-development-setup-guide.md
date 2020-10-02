@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linux Development Setup Guide
+minutes: 8
 ---
 
 I've spoken to several undergraduate students about having a Linux VM as their development environment.

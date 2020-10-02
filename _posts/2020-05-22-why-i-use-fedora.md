@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why I Use Fedora
+minutes: 5
 ---
 
 Cue the dramatic music and dim lights: it's October 2018.

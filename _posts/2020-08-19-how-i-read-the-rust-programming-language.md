@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I Read "The Rust Programming Language"
+minutes: 7
 ---
 
 With [RustConf 2020](https://rustconf.com/) coming tomorrow, I want to tell folks about how I have been "re-reading" [*The Rust Programming Language*](https://doc.rust-lang.org/book/).

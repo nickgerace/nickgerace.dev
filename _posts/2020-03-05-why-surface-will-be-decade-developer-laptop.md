@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why The Surface Will Be This Decade's Developer Laptop
+minutes: 11
 ---
 
 **July 2020 Update:** Apple's WWDC this year was incredible.

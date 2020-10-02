@@ -21,6 +21,7 @@ layout: default
         </h1>
         <p class="meta">
           {{ post.date | date: "%B %-d, %Y" }}
+          {% if post.minutes %} | {{ post.minutes }} minute read{% endif %}
         </p>
       </header>
       <div class="excerpt">

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kubernetes on the Tech ONTAP Podcast
+minutes: 1
 ---
 
 In the past month, I joined the Tech ONTAP Podcast for Episode 245: *Containers, Kubernetes and Automation in Dev and QA at NetApp*. 

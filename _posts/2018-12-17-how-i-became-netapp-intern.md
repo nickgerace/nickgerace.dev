@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How I Became A NetApp Intern and Why You Should Too 
+title: How I Became A NetApp Intern and Why You Should Too
+minutes: 8
 ---
 
 Your junior year in a Bachelor’s program can be daunting. Partaking in four year degree-programs after completing high school can give an uneasy, yet hungry, desire to just... get out and work.

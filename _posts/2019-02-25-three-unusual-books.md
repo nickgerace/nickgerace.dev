@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Three Unusual Books for Computer Science Students 
+title: Three Unusual Books for Computer Science Students
+minutes: 5
 ---
 
 It's fall 2017. Conducting research in application security and beginning side projects in Python sparked my pursuit to learn beyond the classroom. Sure, YouTube, Reddit, Medium and Stack Overflow are excellent resources for guides and instructional materials. However, I wanted to read about the stories, references and reasoning behind numerous topics in my field of interests.

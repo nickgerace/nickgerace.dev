@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Action and Experience
+minutes: 3
 ---
 
 I primarily talk about software, hobbies, and my general interests on this site.

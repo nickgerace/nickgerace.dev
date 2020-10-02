@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Leaving NetApp
+minutes: 3
 ---
 
 Today, I am leaving NetApp, a company that I have had such an excellent time working for.

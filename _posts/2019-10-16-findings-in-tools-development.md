@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Findings in Tools Development
+minutes: 5
 ---
 
 Developers writing software for developers: a (kind of) meta concept.

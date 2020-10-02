@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Annualizing WakeHacks 
+minutes: 4
 ---
 
 In the coming weeks, WakeHacks 2019 will be fully unveiled and its marketing campaign will be begin.

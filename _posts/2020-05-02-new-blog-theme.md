@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Blog Theme
+minutes: 2
 ---
 
 This blog has a new look!
