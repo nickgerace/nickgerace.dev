@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apple Arcade Could Be The Best Deal In Gaming
+minutes: 6
 ---
 
 I'm in the middle of playing Gears 5, on PC, via Microsoft's Xbox Game Pass Ultimate for $2 USD.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thirty Minutes with Kelsey Hightower
+minutes: 7
 ---
 
 I realize that I haven't blogged in months.

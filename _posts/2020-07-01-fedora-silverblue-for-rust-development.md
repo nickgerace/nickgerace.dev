@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fedora Silverblue for Rust Development
+minutes: 3
 ---
 
 This month was a lot busier than expected, including things that were [much more important than software](https://nickgerace.dev/post/action-and-experience).
