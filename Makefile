@@ -4,7 +4,7 @@
 MAKEPATH:=$(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 
 help:
-	@printf "Recommended targets...\n  make run\n  make upstream\n  make setup-for-mac\n  make setup-for-deb\n"
+	@printf "Recommended targets...\n  make run\n  make minutes\n make upstream\n  make setup-for-mac\n  make setup-for-deb\n"
 
 run:
 	/usr/bin/env bundle exec jekyll serve --host 127.0.0.1
