@@ -5,12 +5,12 @@ title: About
 
 ## Me
 
-Hi. I am Nick, a Software Engineer about to start my next adventure.
+Hi. I am Nick, a Software Engineer at [Rancher Labs](https://rancher.com/).
 Want to talk? Please [DM me on Twitter](https://twitter.com/nickgeracehacks) or [send me an email](mailto:nickgerace@hey.com).
 
 ## This Site
 
-- Custom variation of the [type](https://github.com/rohanchandra/type-theme) theme
+- Custom variation of the [type](https://github.com/rohanchandra/type-theme) theme (example tweak: reading time added to posts)
 - Powered by [jekyll](https://github.com/jekyll/jekyll)
 - Favicon made by [turkkub](https://www.flaticon.com/authors/turkkub) from [Flaticon](https://www.flaticon.com/)
 - Favicon generation and setup by [RealFaviconGenerator](https://realfavicongenerator.net)
