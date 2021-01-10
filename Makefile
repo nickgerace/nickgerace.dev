@@ -7,9 +7,6 @@ update:
 	cd $(MAKEPATH); bundle install
 	cd $(MAKEPATH); bundle update
 
-minutes:
-	cd $(MAKEPATH); python3 minutes.py
-
 setup:
 ifeq ($(shell uname), Darwin)
 	brew install ruby
