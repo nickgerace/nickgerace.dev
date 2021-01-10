@@ -28,9 +28,12 @@ twitter_username: nickgeracehacks
 github_username:  nickgerace
 
 # Customized settings
+linkedin_username: nickgerace
 timezone: America/New_York
 permalink: /post/:title
 author: Nick Gerace
+minima:
+  date_format: "%-d %b %Y"
 
 # Build settings
 theme: minima
