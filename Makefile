@@ -1,33 +1,20 @@
-# BLOG MAKEFILE
-# https://nickgerace.dev
-
 MAKEPATH:=$(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 
-help:
-	@printf "Recommended targets...\n  make run\n  make minutes\n make upstream\n  make setup-for-mac\n  make setup-for-deb\n"
+serve:
+	cd $(MAKEPATH); bundle exec jekyll serve --livereload --host 127.0.0.1
 
-run:
-	/usr/bin/env bundle exec jekyll serve --host 127.0.0.1
+update:
+	cd $(MAKEPATH); bundle install
+	cd $(MAKEPATH); bundle update
 
-# We change directory to the repository's root instead of using the full path to the script because
-# we want to remove any potential edge cases during runtimne.
 minutes:
-	@cd $(MAKEPATH); python3 minutes.py
+	cd $(MAKEPATH); python3 minutes.py
 
-upstream:
-	git remote add upstream https://github.com/rohanchandra/type-theme.git
-	git pull upstream
-
-setup-for-mac: deps-mac deps-else
-
-setup-for-deb: deps-deb deps-else
-
-deps-mac:
+setup:
+ifeq ($(shell uname), Darwin)
 	brew install ruby
-
-deps-deb:
-	sudo apt install ruby-full -y
-
-deps-else:
+else
+    sudo apt install ruby-full -y
+endif
 	gem install jekyll bundler
-	bundle install --verbose
+	cd $(MAKEPATH); bundle install

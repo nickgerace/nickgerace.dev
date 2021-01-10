@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Appearances
+permalink: /appearances/
 ---
 
 Here is a list of tech-related talks, articles, podcasts, and anywhere permanent-ish that I've been a part of.

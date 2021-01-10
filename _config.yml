@@ -1,85 +1,64 @@
-# SITE CONFIGURATION
+title: Nick Gerace Hacks Away
+author:
+  name: Nick Gerace
+  email: nickgerace@hey.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Hacking away at something. Site ran by Nick Gerace.
+
+timezone: America/New_York
+permalink: /post/:title
 baseurl: ""
 url: "https://nickgerace.dev"
 
-# ADDED POST PERMALINK
-permalink: /post/:title
+show_excerpts: false # set to true to show excerpts on the homepage
 
-# THEME-SPECIFIC CONFIGURATION
-theme_settings:
-  # Meta
-  title: Nick Gerace Hacks Away
-  avatar:
-  favicon:
-  gravatar: # Email MD5 hash
-  description: "Hacking away at something. Site ran by Nick Gerace." # used by search engines
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%-d %b %Y page.minutes"
 
-  # Header and footer text
-  header_text:
-  header_text_feature_image:
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+  # generate social links in footer
+  social_links:
+    twitter: nickgeracehacks
+    github:  nickgerace
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    linkedin: nickgerace
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
-  # Icons
-  rss: true
-  email_address: "nickgerace@hey.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  gitlab:
-  github: "nickgerace"
-  gitter:
-  google_plus:
-  instagram:
-  linkedin:  "https://linkedin.com/in/nickgerace"
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: "nickgeracehacks"
-  wordpress:
-  youtube:
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
-  # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
-  katex: false # Enable if using math markup
-  search: false # Enable the search feature
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
-  str_search_no_results: "No results found."
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+ - appearances.md
 
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+# Build settings
+theme: minima
 
-  # Post navigation
-  post_navigation: false
-
-# PAGINATION
-paginate: 50
-paginate_path: "blog/page:num"
-
-# BUILD SETTINGS
-markdown: kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
-plugins: [jekyll-paginate]
-exclude:
-  - Gemfile
-  - Gemfile.lock
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
