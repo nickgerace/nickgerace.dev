@@ -10,8 +10,8 @@ Cue the dramatic music and dim lights: it's October 2018.
 - the 30th: [Announcing the Release of Fedora 29](https://fedoramagazine.org/announcing-fedora-29/).
 
 Busy week, huh?
-Ironically, it was the week that I began to use Fedora.
-I choose Fedora that week just because it was the "next one on the list"... and because of a headline that I'll go over later.
+Ironically, it was the week that I began to use Fedora Workstation.
+I chose Fedora that week just because it was the "next one on the list"... and because of a headline that I'll go over later.
 
 I've [distro hopped](https://www.reddit.com/r/DistroHopping/) for years before that.
 In fact, I still do.
@@ -22,7 +22,7 @@ So... let's talk about it.
 ## Blue Hat
 
 Fedora is a community-driven, Red Hat sponsored, Linux desktop-oriented distribution.
-I've been driving it on at least one bare metal machine or VM since Fedora 29, which equates to about a bit over a year and half of daily usage.
+I've been driving it on at least one bare metal machine or VM (Workstation and Server) since Fedora 29, which equates to about a bit over a year and half of daily usage.
 
 Honestly?
 I've generally loved my time with it.
@@ -31,7 +31,7 @@ Giving an unbiased review is an oxymoron.
 In my opinion, transparent biases make for a better review.
 Knowing that a music reviewer prefers novelty to cultural influence, or that a laptop reviewer prefers keyboard quality to screen (panel) quality, provides a frame of reference for their respective reviews.
 
-Only thing is: I'm not formally reviewing my experience with Fedora 29, 30, 31, and (so far) 32.
+However, I'm not formally reviewing my experience with Fedora 29, 30, 31, and (so far) 32.
 This is more of a "what-does-Fedora-have-or-do-for-me-that-other-Linux-desktop-distributions-do-not" post.
 Those exist, right?
 
@@ -43,14 +43,15 @@ I know, I know.
 I hear you orange sites!
 Let me explain.
 
-FOSS is usually a substantial portion of my "well-designed, high quality" software of choice.
-However, this personal preference has been a primary driver in using MacBook Pro throughout college, and running Windows 10 on my gaming PC.
+A substantial portion of my "well-designed, high quality" software of choice is FOSS.
+However, my before-mentioned preference has been a primary driver in using a MacBook Pro throughout college, and running Windows 10 on my gaming PC.
 
-That's not to say that open source and open standard technologies aren't important to me.
+That's not to say that open source and open standard technologies are not important to me.
 In fact, I believe that they will continue to displace proprietary solutions.
 
-Kubernetes is the present day example.
+Kubernetes is one prominent example.
 The open standard ISA, [RISC-V](https://en.wikipedia.org/wiki/RISC-V), and the open firmware platform, [coreboot](https://www.coreboot.org/) may be blueprints for the future.
+Open source software is getting better, and growing, quickly.
 
 So, what the hell does any of this have to do with Fedora?
 Focus and vision.
@@ -72,7 +73,7 @@ No, actually.
 Arch's KISS design is prevalent and well-explained through its [extensive wiki](https://wiki.archlinux.org/).
 Thus, I really like using that distro when it makes sense for me.
 
-However, *when using a laptop*, my preferences sway towards hardware support, some industry presence, and a singular vision at the GUI-level.
+However, *when using a laptop*, my preferences sway towards hardware support, enterprise presence, and a singular vision at the GUI-level.
 This generally leaves me with Ubuntu, Pop!\_OS, and, of course, Fedora.
 
 I have great things to say about the above distributions (and many more), but I have unique and specific reasons for using Fedora.
@@ -85,7 +86,7 @@ I'm actually writing this from a system running Pop!\_OS 20.04.
 
 Yet... I admire the Fedora team's insistence on using vanilla GNOME.
 
-Fedora 29 was the first Linux distro where I felt like I didn't have to install GNOME Tweaks (GNOME Tweak Tool).
+Fedora 29 was the first Linux distro where I felt like I didn't have to install GNOME Tweaks (Tweak Tool) in order to be comfortable with GNOME.
 I opened the settings, chose some preferences, and went to work.
 
 From the Fedora team's close working relationship with the GNOME team, I have confidence that new releases of the desktop environment will integrate nicely with the disto underneath.
@@ -124,16 +125,16 @@ Teamwork doesn't ensure quality, but it most definitely helps.
 
 A clear vision, good frameworks for teamwork, and a balanced release cycle are what make Fedora stand out amongst other distributions.
 
-...and I haven't mentioned FOSS?!
+...and I haven't mentioned FOSS!
 
 ## Free and Open Source Software
 
 As far as my personal beliefs go, Ubuntu and Pop!\_OS actually align more closely to them than Fedora does.
 If Nvidia's proprietary driver is well-designed and significantly better than the FOSS alternative, I'll use it.
-Would I prefer the open source alternative, if it was nearly performant and consistent?
+Would I prefer the open source alternative, if it was nearly as performant and consistent?
 Yes.
 
-However, many folks reading this feel strongly about FOSS, and I *highly* respect that.
+However, many folks reading this may feel strongly about FOSS, and I *highly* respect that.
 Fortunately, Fedora does as well.
 
 ["Do you care about sustainable progress in software freedom and innovation?"](https://fedoraproject.org/wiki/Is_Fedora_For_Me)
@@ -150,7 +151,7 @@ I'm just happy that I can enjoy a Fedora release alongside 100% FOSS-driven user
 I cannot cover everything, nor will I try to compare and contrast my experiences using Fedora to using other distributions.
 Trying to draw lines between your motivations and the software you use is... actually more difficult than you would think.
 
-"Why do I use \<INSERT THING\>?"
+"Why do you use `<insert-tool>`?"
 
 "I dunno. My professor though it was dope."
 
