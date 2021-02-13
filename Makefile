@@ -8,10 +8,7 @@ update:
 	cd $(MAKEPATH); bundle update
 
 setup:
-ifeq ($(shell uname), Darwin)
-	brew install ruby
-else
-    sudo apt install ruby-full -y
-endif
+	ruby --version
+	@printf "[+] Ruby is installed!\n"
 	gem install jekyll bundler
 	cd $(MAKEPATH); bundle install
