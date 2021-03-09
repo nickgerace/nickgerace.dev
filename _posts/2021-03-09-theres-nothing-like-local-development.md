@@ -85,7 +85,7 @@ The bigger problems arose when varying projects and applications relied on `PATH
 > I can hear you ~~cheering~~ screaming!
 
 **Bottom line**: I needed to be able to clone project repositories with minimal tweaking to get [make](https://www.gnu.org/software/make/) targets to work.
-You might find this ironic, given the length of this post, but I decided that configuring symlinks, FHS-compliant configurations for NixOS, etc. would be too time-confusing for my daily development workflow.
+You might find this ironic, given the length of this post, but I decided that configuring symlinks, generating FHS-compliant configurations for NixOS, etc. would be too time-consuming for my daily development workflow.
 
 It's worth noting that I *adored* NixOS for rapid teardown/setup environments and production deployments.
 Definitely going to keep an eye on the NixOS community and project moving forward.
