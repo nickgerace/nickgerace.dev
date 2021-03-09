@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Hi. I am Nick, a Software Engineer at [Rancher Labs](https://rancher.com/).
+Hi. I am Nick, a Software Engineer at [SUSE](https://www.suse.com/) ([Rancher Labs](https://rancher.com/)).
 Want to talk? Please reach out at one of the following places.
 
 - Email - nickgerace (at symbol) hey.com

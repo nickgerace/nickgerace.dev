@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Appearances
+title: Public Appearances
 permalink: /appearances/
 ---
 
-Here is a list of tech-related talks, articles, podcasts, and anywhere permanent-ish that I've been a part of.
+Here is a list of tech-related talks, articles, podcasts, and anywhere permanent-ish in public that I've been a part of.
 
 Item | Date | Content Type
 --- | --- | ---
