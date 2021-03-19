@@ -4,6 +4,21 @@ title: Why The Surface Will Be This Decade's Developer Laptop
 minutes: 11
 ---
 
+**March 2021 Update:** Reading back through this post reminds me that I was unclear about one thing: who is the Surface Laptop for?
+At the time of this post's publication and now, it's not for me, but that does not mean it will not be for others.
+I may have implied this in the section containing the following:
+
+> I'll tell the truth.
+> I was alternating between Windows 10 and native Linux installations (Ubuntu/Debian/Fedora/PopOS!) before this news.
+
+[45% of developers use Windows as their primary operating system](https://insights.stackoverflow.com/survey/2020#technology-developers-primary-operating-systems), and the intention of this post was to imply that "This Decade's Developer Laptop" will not necessarily be the *best* developer laptop, but that it *could* fill the shoes that the late-2000s/early-2010s MacBook did.
+Could the Surface Laptop become the default option in Silicon Valley blog posts about the "best laptop"?
+That was the question this post tried to answer.
+
+This post followed persuasive writing styles from academia, which might have accidentally misrepresented my personal stance on "This Decade's Developer Laptop".
+I am always trying to reduce the ratio between my intentended arguments and how my blog posts are perceived.
+Thus, while this was one of my most popular posts, if I had to write it again, I would ensure that this post more *exploratory* than *convictive*.
+
 **July 2020 Update:** Apple's WWDC this year was incredible.
 The pivot to ARM-based Apple Silicon and macOS 11 was very reassuring, as a Mac fan.
 Moreover, the MacBook Air and MacBook Pro 13-inch have been refreshed since this article was posted, and have addressed most of the 2016-2019 lineup's issues.
