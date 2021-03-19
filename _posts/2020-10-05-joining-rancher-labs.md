@@ -5,8 +5,6 @@ minutes: 2
 ---
 
 I am excited to say that I have joined [Rancher Labs](https://rancher.com/) as a Software Engineer!
-
----
  
 I'll be starting my "first day" this morning, so I wanted to talk about why I joined Rancher, and why I am excited to work with everyone there.
 

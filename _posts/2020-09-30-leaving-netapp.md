@@ -5,8 +5,6 @@ minutes: 3
 ---
 
 Today, I am leaving NetApp, a company that I have had such an excellent time working for.
-
----
  
 The amount of support from my colleagues and management chain, the number of opportunities for a new college hire, and the quantity of challenging technical problems are immense.
 The down-to-Earth work culture combined with the storage products that it helps produce make NetApp a great place to work.

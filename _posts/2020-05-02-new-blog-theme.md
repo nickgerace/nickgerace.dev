@@ -4,6 +4,10 @@ title: New Blog Theme
 minutes: 2
 ---
 
+**March 2021 Update:** Now it's back to `minima`, lol.
+
+*(original post begins below)*
+
 This blog has a new look!
 The default [minima](https://github.com/jekyll/minima) Jekyll theme had served me well, but it was time for a new one.
 
