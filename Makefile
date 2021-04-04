@@ -1,7 +1,8 @@
 MAKEPATH:=$(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 
 serve:
-	cd $(MAKEPATH); bundle exec jekyll serve --livereload --host 127.0.0.1
+	cd $(MAKEPATH); bundle exec jekyll serve \
+		--future --livereload --host 127.0.0.1
 
 update:
 	cd $(MAKEPATH); bundle install
