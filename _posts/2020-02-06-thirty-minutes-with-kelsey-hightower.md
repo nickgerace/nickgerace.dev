@@ -186,11 +186,3 @@ While I'll give a fellow alum, [Alex Lyons](https://linkedin.com/in/alex-lyons),
 
 I cannot thank Kelsey enough for this video call.
 Even if I do not try podcasting again (leaning on trying it again soon), the points I've taken away have helped me look at my day-to-day interactions, tech talks, presentations and more.
-
-Oh wait! I almost forgot.
-It wouldn't be blog post from me without spicy hot takes while you're here.
-
-Ahem... *clears throat*...
-microVMs are the future, monolithic applications will take over once again, and Redox OS will take over the world.
-Have at it Reddit!
-
