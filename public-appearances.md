@@ -8,7 +8,7 @@ Here is a list of tech-related talks, articles, podcasts, and anywhere permanent
 
 Item | Date | Content Type or Position
 --- | --- | ---
-*(sign up for free today!)* [SUSE CON 2021](https://www.susecon.com/) | May 2021 | Talk
+[SUSE CON 2021](https://www.susecon.com/) ([slides](../slides/susecon2021-dev1014-nickgerace.pdf)) | May 2021 | Talk
 *(recording coming soon)* [Rancher Labs Master Class: Scaling Kubernetes Nodes from Rancher](https://info.rancher.com/kubernetes-master-class-apr6-2021) | April 2021 | Master Class
 [SUSE Hack Week 2021: Rust Bootcamp](https://hackweek.suse.com/20/projects/rust-bootcamp) | March 2021 | Technical Host (instruction by [Ferrous Systems](https://ferrous-systems.com/))
 [WFU OPCD Alumni Feature](https://opcd.wfu.edu/2021/01/nick-gerace/) | January 2021 | Article
