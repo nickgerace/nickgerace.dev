@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fedora Silverblue for Rust Development
-minutes: 3
 ---
 
 This month was a lot busier than expected, including things that were [much more important than software](https://nickgerace.dev/post/action-and-experience).
@@ -26,8 +25,8 @@ Instead, I looked for "edge cases", and by "edge cases", I mean "compiling big a
 We'll get to that. The first thing I wanted to do: understand the differences (and when to use) flatpak, toolbox, and rpm-ostree. I usually followed this order...
 
 1. flatpak
-2. toolbox
-3. rpm-ostree
+1. toolbox
+1. rpm-ostree
 
 For my Rust toolchain, I primarily used Toolbox. ([link](https://docs.fedoraproject.org/en-US/fedora-silverblue/toolbox/))
 

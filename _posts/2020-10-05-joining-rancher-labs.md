@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Joining Rancher Labs
-minutes: 2
 ---
 
 I am excited to say that I have joined [Rancher Labs](https://rancher.com/) as a Software Engineer!
@@ -9,12 +8,12 @@ I am excited to say that I have joined [Rancher Labs](https://rancher.com/) as a
 I'll be starting my "first day" this morning, so I wanted to talk about why I joined Rancher, and why I am excited to work with everyone there.
 
 In my [last post](https://nickgerace.dev/post/leaving-netapp), I spoke about wanting to try new things *eventually*, and continuing to explore what being a Software Engineer is all about.
-I also spoke about the foundations of high-level career/engineering motivations (i.e. caring about principles and mission over technology "foo" or "bar").
+I also spoke about the foundations of high-level career/engineering motivations (e.g. caring about principles and mission over technology `foo` or `bar`).
 The COVID-19 era helped accelerate my desire to try new things; the top three being (in no particular order)... 
 
 1. Product development
-2. Working on open source software full-time
-3. Working at a small company
+1. Working on open source software full-time
+1. Working at a small company
 
 Rancher Labs not only gives me an opportunity to do those three things well, but also provides motivation to do so.
 From speaking with future teammates, including senior members of the company, I'm confident in both Rancher's goal to be the undisputed leader in enterprise Kubernetes management, and its commitment to its organizational values and principles, which flow into every single product.

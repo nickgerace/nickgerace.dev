@@ -1,27 +1,30 @@
 ---
 layout: post
 title: Linux Development Setup Guide
-minutes: 8
 ---
 
 I've spoken to several undergraduate students about having a Linux VM as their development environment.
-However... I have not ever detailed what that would look like on either macOS, or Windows.
+However, I have not ever detailed what that would look like on either macOS, or Windows.
 
-Today, I want to go through, step-by-step, how to get a working development environment on macOS and Windows as *fast* and *simple* as possible.
+Today, I want to go through, step-by-step, how to get you a simple, working, Linux-based development environment on macOS and Windows.
 
 ## Simplicity Rules
 
 There are many different variations and options to each step of this guide.
-However, (maybe this is [Go's](https://golang.org/doc/) design principles wearing off on me) this guide will cover one specific setup process.
+However, this guide will cover one specific setup process.
+
+> Maybe, this is [Go's](https://golang.org/doc/) design principles wearing off on me.
+
 There are many Linux distributions and virtualization platforms that may work better for you, but this guide's platforms of choice should will work well for beginners and advanced users alike.
 
 Two quick disclaimers:
-- I'll be writing this guide from the perspective of a macOS user. None of the steps should be substantially different for Windows, but you may notice some differences during the VirtualBox section.
-- I will not be covering native Linux (or GNU+Linux, if that's what your prefer) desktops because those users are not the target audience for this guide.
+
+1. I'll be writing this guide from the perspective of a macOS user. None of the steps should be substantially different for Windows, but you may notice some differences during the VirtualBox section.
+2. I will not be covering native Linux desktops because those users are not the target audience for this guide.
 
 ## Checklist
 
-On both macOS and Windows, we'll download the following software...
+On both macOS and Windows, we'll download the following software:
 
 - Ubuntu Server ISO file
 - VirtualBox
@@ -35,7 +38,7 @@ What's great about using a "headless" (no GUI), virtual machine is that it's bot
 
 ## Step 1: Download the Ubuntu Server ISO File
 
-*Note: you can perform this step and the following step in parallel.*
+> You can perform this step and the following step in parallel.
 
 Open your preferred web browser and navigate to the [Ubuntu](https://ubuntu.com/) website.
 From here, find "Download" and select "Ubuntu Server".
@@ -195,9 +198,9 @@ sudo shutdown now
 These command perform the following:
 
 1. Updates apt package manager to reflect available updates from source.
-2. Installs the SSH server.
-3. Starts and enables (upon future startups) the SSH server.
-4. Shuts down the VM.
+1. Installs the SSH server.
+1. Starts and enables (upon future startups) the SSH server.
+1. Shuts down the VM.
 
 The VM window should close when it's finished shutting down.
 

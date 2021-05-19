@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Leaving NetApp
-minutes: 3
 ---
 
 Today, I am leaving NetApp, a company that I have had such an excellent time working for.
@@ -37,11 +36,11 @@ It's one of my favorite talks on the subject!
  
 These motivations have become essential guides in my career path, and they have resulted in the following conclusions...
  
-1. I am not a "Go developer", "Rust software engineer", "Kubernetes operator", or any kind of "```$(INSERT_TECHNOLOGY)``` engineer".
-2. I spend 40 hours a week generating value, be it dollar-based or otherwise, for myself *(never underestimate this one!)*, my teammates, and my employer.
-3. I need to believe in the team's, organization's, and company's principles and objectives.
-4. My career does not define me, even though I currently love what I do. I believe that’s a healthy distinction to make.
-5. I just... *love* being a **Software Engineer** right now, with all of its principles, methods, and processes.
+1. I am not a "Go developer", "Rust software engineer", "Kubernetes operator", or any kind of "`$FAVORITE_TECHNOLOGY` engineer".
+1. I spend 40 hours a week generating value, be it dollar-based or otherwise, for myself *(never underestimate this one!)*, my teammates, and my employer.
+1. I need to believe in the team's, organization's, and company's principles and objectives.
+1. My career does not define me, even though I currently love what I do. I believe that’s a healthy distinction to make.
+1. I just... *love* being a **Software Engineer** right now, with all of its principles, methods, and processes.
  
 That's what I have realized over the past few years.
 I cannot determine if these conclusions are completely correct or justified, but they are how I have been navigating my career... and I'm pretty happy with them!

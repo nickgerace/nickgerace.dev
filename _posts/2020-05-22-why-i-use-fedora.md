@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why I Use Fedora
-minutes: 5
 ---
 
 Cue the dramatic music and dim lights: it's October 2018.
@@ -58,7 +57,7 @@ Focus and vision.
 
 ## An Upfront Focus
 
-*"Fedora Workstation is a polished, easy to use operating system for laptop and desktop computers, with a complete set of tools for developers and makers of all kinds."* -[getfedora.org](https://getfedora.org/)
+> *"Fedora Workstation is a polished, easy to use operating system for laptop and desktop computers, with a complete set of tools for developers and makers of all kinds."* -[getfedora.org](https://getfedora.org/)
 
 Under the leadership of [Matthew Miller](https://twitter.com/mattdm), the awesome teams behind Fedora, and its great community, this distribution has streamlined itself in recent years.
 Sure, the [Fedora CoreOS](https://getfedora.org/en/coreos) project and [Fedora Silverblue](https://silverblue.fedoraproject.org/) projects present unique opportunities, but they differentiate themselves by *use cases*, not *desktop spins*.
@@ -125,7 +124,7 @@ Teamwork doesn't ensure quality, but it most definitely helps.
 
 A clear vision, good frameworks for teamwork, and a balanced release cycle are what make Fedora stand out amongst other distributions.
 
-...and I haven't mentioned FOSS!
+And... I haven't mentioned FOSS!
 
 ## Free and Open Source Software
 
