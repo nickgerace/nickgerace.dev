@@ -4,8 +4,8 @@ title: Action and Experience
 ---
 
 I primarily talk about software, hobbies, and my general interests on this site.
-However, we all need to help keep the conversation moving.
-Specifically, people who look like me need to help keep the conversation moving.
+However, we all need to keep the conversation moving.
+Specifically, people who look like me need to keep the conversation moving.
 
 The protests following George Floyd's murder need to result in actual change, not trendy profile pictures that fall out of public interest.
 Fortunately, I believe many fellow software engineers, and their employers, feel the same way.
@@ -18,7 +18,7 @@ Thus, I'll talk about **action** upfront, and will continue to talk **experience
 ## Action
 
 I am always learning, I do not have all the answers, and I still get things wrong.
-While I do not think I'll ever "be fully prepared" to talk about **action**, I cannot be silent when the fire is hot.
+While I do not think I'll ever be "fully prepared" to talk about **action**, I cannot be silent when the fire is hot.
 
 There are countless essays, documentaries, books and resources that you have probably seen already.
 If not, your favorite search engine will point you to *several* breakdowns of what to do.
@@ -32,7 +32,7 @@ For folks who would like to read Black literature, I *highly* recommend [Toni Mo
 It was my favorite book in high school, and highlights many multicultural **experiences** in the USA.
 
 I've had the privilege to work alongside, befriend, and look up to countless Black people in my life.
-Whether it's DJing at Black-student-led events, hanging out at my university's Intercultural Center, creating software and music with Black engineers and artists, or just including me in pre-dominantly Black circles, I have to thank many Black people who have helped make *my life* that much better.
+Whether it's DJing at Black-student-led events, hanging out at my university's Intercultural Center, creating software and music with Black engineers and artists, or just including me in pre-dominantly Black circles, I have to thank many Black people who have helped make *my* life that much better.
 
 It's *always* time to do the right thing, and I believe that now more than ever.
 It's a tired expression, but we need to "be the change we want to see"... in a very literal way.
@@ -42,16 +42,24 @@ The best way to "be an ally" is to not say it.
 It's to *be one*.
 The next steps are to have the uncomfortable conversations in non-Black circles, amplify Black voices, and say "these things are *not right*".
 
-However, I understand that all of this is not easy.
+Asking how you can help, and what you should do does not suffice, and it may put even more work on Black friends and colleagues.
+In your day to day life, offer that seat at the table.
+Recognize that your empathy cannot replace someone else's lived experience and perspective.
+
+However, I understand that all of this is not easy since it may not have been a reality that you've been required face head-on.
 It's all too easy to delete social media, and tune out the noise.
 Not everyone has that luxury though.
 Thus, strike an in-between: take **action** while taking care of yourself.
 
-So... let's return to what's a good start: learning, knowledge, and donations.
+he weight of the world's problems does not lie on you, but how you conduct yourself from your core can have a rippling effect that can change lives for the better.
+You may never see those direct effects.
+However, if we all start from our core outwards, those effects *can* come to fruition.
+
+Let's return to the focus on this section though: a good start.
+A good start involves learning, knowledge, and donations.
 I've mentioned learning and knowledge earlier, so I'll end this **action** section with some organizations that I would recommend researching and donating to.
 
 - [ACLU Foundation](https://www.aclu.org/)
-- [Black Lives Matter](https://blacklivesmatter.com/)
 - [NAACP](https://www.naacp.org/)
 
 There are *so* many more organizations, and I recommend doing your own research.
@@ -71,28 +79,32 @@ There was five of us, and I was the only non-Black person there.
 
 Headlights rounded the corner and the slowest moving police car I had ever seen began to approach us.
 Two officers stared into the faces of my friends and our conversation came to a halt.
+This was one of the longer minutes I've felt in my life.
+I could feel stares traded.
 
-It was only after this had happened that I realized I was out of the streetlight's rays.
-I stepped forward to get a clearer look at what was happening.
+It was only after this had happened that I realized I was in the dark, and outside of the streetlight's rays.
+I stepped forward, into those rays, to get a clearer look at what was happening.
 
 The two officers looked at me, now underneath the streetlight, and then the vehicle sped up.
 The car left the neighborhood; thrice the speed that it came.
 
 I asked the group why they just... left.
-The group burst out laughing and said "you are White".
+The group burst out laughing and said "you are white".
+
+Only stares were exchanged.
+"Nothing" else happened.
 
 I don't talk about this story often because I rarely thought there would be a time or place.
-Would other White people believe me?
+Would other people believe me?
 Would they believe that this was racially motivated?
 I was never really sure.
 
 I bring this story up now to help reaffirm that the Black **experience** is *beautiful* and *real*, but also demands change.
-It's something that many have only just witnessed for the first time.
+It's something that many have only recently witnessed for the first time.
 
-Sure, there's [intersectionality](https://en.wikipedia.org/wiki/Intersectionality) in my personal, White **experience**.
-I've been called "terrorist" and "Mexican" several times in my youth (I guess Italian, Pakistani, a large European mix, and a summer tan will do that), but this post isn't about me or those with similar **experiences**.
-The point: I will *never* **experience** the injustice that Black people *uniquely* do.
+Sure, there's [intersectionality](https://en.wikipedia.org/wiki/Intersectionality) in my personal **experience**.
+I'm not always fully "white passing" with an Italian, Pakistani, and largely European family background, but this post isn't about me or those with similar **experiences**.
+The point is that I will *never* **experience** the injustices that Black people *uniquely* do.
 
 I ask that my fellow software engineers, and their employers, recognize that while all **experiences** are different, we must do our part to ensure the Black **experience** finds justice.
 I'm naturally optimistic, and I know we can do this.
-

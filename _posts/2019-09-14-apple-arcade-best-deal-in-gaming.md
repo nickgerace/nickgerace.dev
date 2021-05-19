@@ -17,16 +17,14 @@ A few years later passed and the iPhone 4 launch (2010) cemented the iPhone's pl
 
 Between those two launches, the App Store was released, and with more than a few games alongside it.
 One of those massively popular titles was [Pocket God](https://en.wikipedia.org/wiki/Pocket_God), released over 10 years ago.
-
 Full of little easter eggs and showcasing the impressive touch screen of the iPhone, this game was helped lead the charge of the mobile games industry.
 
-Then came the heavy hitters... Plants vs. Zombies, Temple Run, Flappy Bird, Tiny Tower, Fallout Shelter, and more.
+Then came the heavy hitters: Plants vs. Zombies, Temple Run, Flappy Bird, Tiny Tower, Fallout Shelter, and more.
 However, each release and blockbuster brought increasingly aggressive monetization practices with them.
 
-The reality: nearly every other app was free, so why would the everyday user make an exception for games?
+**The reality set in**: nearly every other app was free, so why would the everyday user make an exception for games?
 Introduce time-wasting as a service (TWaaS).
-
-Developers pour their passion, time and effort into crafting excellent games, but are ultimately held back by the before-mentioned reality.
+Developers pour their passion, time and effort into crafting excellent games, but are ultimately held back by the aforementioned reality of the mobile app market.
 
 Do they go the Square Enix route and create great remasters for $10 USD?
 Do they go the Epic Games route and create cross platform games with AAA style microtransactions?
@@ -40,27 +38,26 @@ In fact, they've already been hinting at this.
 The [2018 iPad Pro](https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/) reveal event included a significant gaming segment.
 Whilst talking about the new processor (A12X Bionic), Apple claimed that the iPad Pro's GPU matched Xbox One S performance, with a 94% smaller footprint (...and 267% higher cost, but it's portable, has a screen, etc., so we will let that one slide).
 
-A month prior, Apple invited Todd Howard of Bethesda Game Studios on stage, to [showcase The Elder Scrolls: Blades](https://www.youtube.com/watch?v=lTEEH-Ir6xc), which was presented much like a game would be at E3.
+A month prior, Apple invited [Todd Howard](https://en.wikipedia.org/wiki/Todd_Howard) of Bethesda Game Studios on stage, to [showcase The Elder Scrolls: Blades](https://www.youtube.com/watch?v=lTEEH-Ir6xc), which was presented much like a game would be at E3.
 It included impressive graphics for mobile, but also hinted at what AAA-style mobile development was capable of.
 
-This summer, Apple [announced Xbox One and PS4 controller compatability](https://developer.apple.com/videos/play/wwdc2019/616/) at WWDC 2019.
+This summer at WWDC 2019, Apple [announced Xbox One and PS4 controller compatability](https://developer.apple.com/videos/play/wwdc2019/616/).
 iOS 13, and the newly branched iPadOS, began to show signs of encroaching on macOS territory.
 Mouse support, cross application support, and powerful processors indicate that the iPad and iOS devices are ready to game.
 
-Since I apparently dislike chronological ordering, Apple Arcade was [announced at the Apple TV event in March](https://www.apple.com/newsroom/2019/03/apple-introduces-apple-arcade-the-worlds-first-game-subscription-service-for-mobile-desktop-and-the-living-room/), but the true reveal was slated for Fall 2019.
+Since I dislike chronological ordering (apparently), Apple Arcade was [announced at the Apple TV event in March](https://www.apple.com/newsroom/2019/03/apple-introduces-apple-arcade-the-worlds-first-game-subscription-service-for-mobile-desktop-and-the-living-room/), but the true reveal was slated for Fall 2019.
 
-Well, here we are. The reveal is over and there's quite (the American quite) a few things to look at.
+Well, here we are.
+The reveal is over and there's a few things for us to look at.
 
 ## Going To The Arcade
 
-Let's start with what matters to most people.
-[Apple Arcade](https://www.apple.com/apple-arcade/) will cost $5 USD per month, with the ability to have up to five people on a family subscription.
+Let's start with what matters to most people: [Apple Arcade](https://www.apple.com/apple-arcade/) will cost $5 USD per month, with the ability to have up to five people on a family subscription.
 
 Didn't expect that, did you?
 Truthfully, neither did I.
 
 You get 100+ games, with 50+ already announced, as well as some exclusives.
-
 Hate it or love it, but exclusives can help differentiate platforms and are often fueled with substantial first party support.
 Should pre-existing franchises have direct sequels become exclusives?
 Probably not, but I would not be too worried about this becoming a trend.
@@ -68,13 +65,12 @@ Probably not, but I would not be too worried about this becoming a trend.
 Touch devices require vastly different inputs and capture usually different audiences than your favorite PC and console franchise titles.
 I would not hold your breath on losing Diablo 4 to mobile (that's why Immortal was so [well-received](https://www.gamesindustry.biz/articles/2018-11-06-activision-blizzard-stocks-tumble-amid-fan-backlash-over-diablo-immortal)).
 
-Though, there is one massive feature that all gamers will appreciate.
-
-Apple Arcade has one absolutely killer feature that no other gaming service has: no microtransactions or in-app purchases.
+Though, there is one massive feature that all gamers will appreciate, and it's one that no other gaming "service" has.
+Apple Arcade games will have no microtransactions nor in-app purchases.
 
 ## We Should Really Come Up With A Different Industry Term Than "Killer Feature"
 
-In my opinion, this is THE killer feature.
+In my opinion, that is *the* killer feature.
 The mobile market has been dominated by freemium games and Apple stomped their foot directly on top of them.
 
 For those who are unaware or would like a refresher: microtransactions are purchases, with real world money, in order to gain access to more content in the game.
@@ -87,12 +83,12 @@ This means that the player must pay or wait a certain period of time before they
 Thus, the illusion of being free can be easily broken, and mobile franchises are not taken as seriously as their console/PC peers as a result.
 
 The premise of Apple Arcade dismantles such transactions.
-
 This may be a stretch, but I do not think this model is coincidental in the Tim-Cook-privacy era.
-Side note: I believe that this will go down as one of Tim Cook's most important contributions as CEO.
+
+> I believe that this may go down as one of Tim Cook's most important contributions as CEO, if Apple Arcade's microtransaction stance spreads throughout the industry.
 
 Creating temporary email addresses with [sign-in with Apple ID](https://support.apple.com/en-us/HT204053), endorsing DuckDuckGo as a search engine, choosing to share data with Apple Arcade developers, and... just not being a company whose business model is selling user data, all focus on a notorious privacy gap in the tech industry.
-Frankly, only Apple, Mozilla and Linux (or GNU+Linux, if you prefer) have been truly successful in this regard.
+Frankly, only Apple, Mozilla and Linux have been truly successful in this regard.
 
 ## Apple's Game of Thrones
 
@@ -106,18 +102,18 @@ With Apple Arcade, mobile games are able to assume the roles that their HBO and 
 By being taken off the freemium leash, developers can focus on making the mobile market thrive with art and purpose, not TWaaS (see definition above).
 
 The streaming era has not only brought great convenience, but I'd argue that it's brought great art.
-A bit of a confession here... I do not watch much TV or many movies.
+A bit of a confession here: I do not watch much TV or many movies.
 However, I can personally attest to the sheer fan numbers generated by great franchises and originals spawned by the streaming era.
 
 This type of content liberation directly benefits the end consumer as well as the passionate artist.
 
-Since the dawn of iOS games, I've heard time and time again, "I will not play it, unless it is FREE!"
+Since the dawn of iOS games, I've heard time and time again, "I will not play it, unless it is **free**!"
 Okay, that is totally reasonable, but this mentality is what enables the mobile industry to remain in freemium deadlock.
 
 This new type of market enables cinematic storytelling without having to worry about freemium tropes.
 
 Perhaps, it could spawn a great game from the developers of Celeste.
-You favorite mobile games could have every feature and item earn-able in-game, rather than with purchases and time-gates.
+You favorite mobile games could have every feature and item earnable in-game, rather than with purchases and time-gates.
 Nintendo could release a Super Mario game without the pitfalls of Super Mario Run.
 Sony or Microsoft could release spin-offs of huge AAA franchises without the freemium tax.
 

@@ -14,13 +14,18 @@ Gradually, I began to direct my focus towards learning about the extracurricular
 - What do students do with their skills acquired from coursework?
 - What hard skills do universities rarely cover?
 - How do these people make viral and viable software?
-- What do computer science students do for fun (*please be healthy before dedicating yourself to side projects*) with their skillsets?
+- What do computer science students do for fun with their skillsets?
+
+> Please only dedicate yourself to side projects if you find them fun, and do so in a healthy manner.
+> They're supposed to be fun!
 
 However, simple answers give way to rudimentary understanding.
 These questions were best answered to me not through speech or text, but through my own eyes by attending hackathons.
 Through my experience, I believe that university hackathons are the best bridge between the academic setting and the corporate world.
 
-No, hackathons do not teach corporate strategy. No, hackathons do not expand upon algorithms research. Yet, hackathons are the best diving board that I have seen for newcomers to begin building software with purpose.
+No, hackathons do not teach corporate strategy.
+No, hackathons do not expand upon algorithms research.
+Yet, hackathons are the best diving board that I have seen for newcomers to begin building software with purpose.
 
 As soon as our 2016–2017 ACM President sent a department-wide email in lieu of forming a hackathon committee, I jumped on that train immediately.
 Apparently our department had been quietly wishing to found a hackathon for many years, but the idea never came to fruition.
@@ -78,6 +83,7 @@ The hackathon begins on Friday, March 29th and ends on Saturday, March 30th.
 The ZSR staff is committed to helping us go all out on this one.
 
 ## What’s Next?
+
 The raw numbers and logistical challenges come next.
 Marketing, sponsor outreach, university outreach, and many more tasks lie in the coming months.
 

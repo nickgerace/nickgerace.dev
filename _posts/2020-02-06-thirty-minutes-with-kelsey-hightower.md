@@ -3,19 +3,19 @@ layout: post
 title: Thirty Minutes with Kelsey Hightower
 ---
 
-I realize that I haven't blogged since November.
+I realize that I haven't blogged in months.
 It's kind of strange; especially since blogging is very therapeutic for me.
 
 Well, along with changing teams internally at NetApp and navigating the holiday season, I tried to launch a solo podcast.
 
 Podcasts have been a key part to my life for the past year or so.
 I can listen to a podcast while running errands, doing chores or working out.
-Not only are the shows themselves valuable, but they can be *much easier to consume than blog posts*.
+Not only are the shows themselves valuable, but they can be easier to consume than blog posts, or YouTube videos, during a busy day.
 
 The idea of transitioning from writing to speaking began with whimsically polling with friends on social media.
 "Blog or podcast?" was the question... and, overwhelmingly, "podcast" was the answer.
 
-Shock.
+I was a bit shocked.
 I would have thought that "podcast" was a buzzword that would have been met with eye rolls.
 However, it seems that value of the shows themselves in conjunction with their consumption format resonates with a *ton* of people.
 
@@ -31,9 +31,7 @@ Narrowed down to the monologue/no-release-date format, the first episode began p
 I sat in front of the microphone, notes from my Trello board on screen, and began recording.
 
 However... I deleted that take.
-
 Then, I deleted the next take.
-
 After that, I spliced the next take; followed that with another take... leading the newly merged take to deletion.
 
 This process continued for 3.5 hours, until I realized how long I'd been trying this.
@@ -62,10 +60,11 @@ Taking the time to help out a junior engineer meant a lot to me, so I wanted to 
 - conclusions from the conversation
 - how the conversation evolved beyond podcasting in a vacuum
 
-Before going into those experiences, I want to say the following. To all the junior engineers and college students out there reading this, you have the power and means to reach out to anyone in tech.
+Before going into those experiences, I want to say the following: to all the junior engineers and college students out there reading this, you have the power and means to reach out to anyone in tech.
 
-However, recognize points of privilege and the intersectional perspectives of your peers.
-You all hold that same power to reach out, so let's learn more *together*.
+> While everyone hold that same power to reach out, it's important ecognize points of privilege and the intersectional perspectives of your peers.
+> Not everyone has had the privilege to know where to start.
+> Help each other learn *together*.
 
 Let's back up a second though and dive the video call itself.
 With Kelsey's permission, I'll break down parts of the call and, hopefully, provide something meaningful to you.
@@ -95,7 +94,7 @@ Sure, show notes are important to keep yourself from being derailed, but visuali
 Awesome advice for keeping you on the tracks.
 
 I was extremely happy that he was not only willing to help me through something that was borderline emotional, but also happy that his podcast format was not too distant from mine.
-Without spilling too many details (so excited for his podcast by the way), Kelsey is also adopting the "no cadence", diary-style podcast model.
+Without spilling too many details (so excited for his podcast by the way), Kelsey may also adopt the "no cadence", diary-style podcast model.
 
 Neither of us had seen too many of these, but personally... I think this could be a great format to spring up out of the podcast revolution.
 
@@ -111,8 +110,8 @@ Podcasts engage the listener with pre-determined tonality, voice, and delivery.
 Although I was totally on board with everything Kelsey had said so far, it was at this point in the call where we talked about how current thoughts are subject to change.
 That might seem rudimentary, but I wanted to dig deeper.
 
-- How do you check your own privilege, perspectives, and not come off as pretentious? (tech or other)
-- An example: how do I talk my experiences using Rust over C without years worth of industry experience writing in either language?
+- How do you check your own privilege, perspectives, and not come off as pretentious? 
+- How do I talk my experiences using Rust over C++ without years worth of industry experience writing in either language?
 - Sure, you can follow the conversational format that we talked about above, but how do you present your opinions in a way that other people will enjoy?
 
 These questions blazed through my head, and while I may not have the answers to all of them, I now have a better idea on how to approach them.
@@ -134,14 +133,15 @@ In another scenario, you might begin talking about those same programming langua
 You might feel pressure to "say exactly the right thing" in these scenarios, but do not take that upon yourself!
 
 Kelsey helped me realize that you don't have to figure out if you're *entirely* right or wrong with your opinions.
-While no one can invalidate your perspective, you need to balance that with recognizing that you cannot possibly experience someone else's perspective. That might be difficult to envision, so let's go over an example.
+While no one can invalidate your perspective, you need to balance that with recognizing that you cannot possibly experience someone else's perspective.
+That might be difficult to envision, so let's go over an example.
 
 Beyond just talking about code and tech, sometimes being an "ally" (using the corporatized version of the word) and "actively trying to help" folks from underrepresented groups may actually do more damage than good.
 
 For instance, I will never truly understand what it is like to experience "Blackness", so I should not dictate how anyone who experiences "Blackness" needs to be helped in tech.
-
-Empathizing with another person's experience is the first step in being an "ally".
-All of these things come to play and intersectionality is key, regardless of topic.
+Asking "what books to read", or "how to learn more to help", is not necessary nor encouraged since it can put more pressure on your teammates.
+Giving all your teammates a seat at the table is how you can be truly helpful.
+Empathy and intersectionality are certainly pillars of great team, but the actions that play out on top of that foundation are what really matter.
 
 The point is that we will never have the perspective from folks of varying identities and experiences, but we do have the power to share our own points of view while recognizing our own points of privilege.
 
@@ -184,12 +184,4 @@ While I'll give a fellow alum, [Alex Lyons](https://linkedin.com/in/alex-lyons),
 ## Call Ended
 
 I cannot thank Kelsey enough for this video call.
-Even if I do not try podcasting again (leaning on trying it again soon), the points I've taken away have helped me look at my day-to-day interactions, tech talks, presentations and more.
-
-Oh wait! I almost forgot.
-It wouldn't be blog post from me without spicy hot takes while you're here.
-
-Ahem... *clears throat*...
-microVMs are the future, monolithic applications will take over once again, and Redox OS will take over the world.
-Have at it Reddit!
-
+Even if I do not try podcasting again, the points I've taken away have helped me look at my day-to-day interactions, tech talks, presentations and more.

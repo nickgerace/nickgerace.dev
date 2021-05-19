@@ -3,31 +3,33 @@ layout: post
 title: Why The Surface Will Be This Decade's Developer Laptop
 ---
 
-**July 2020 Update**: Apple's WWDC this year was incredible.
-The pivot to ARM-based Apple Silicon and macOS 11 was very reassuring, as a Mac fan.
-Moreover, the MacBook Air and MacBook Pro 13-inch have been refreshed since this article was posted, and have addressed most of the 2016-2019 lineup's issues.
-
-I think the core message of this article still stands: Microsoft has a potential winner on its hands with the Surface lineup.
-Let's see how this plays out over time.
-
-## Original Post Begins
-
-I never realized how much I wanted [@jack](https://twitter.com/nickagerace) to include the edit button until I re-read this tweet...
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/surface?ref_src=twsrc%5Etfw">@surface</a> with WSL will the MacBook Pro of the next decade.</p>&mdash; Nick Gerace (@nickagerace) <a href="https://twitter.com/nickagerace/status/1213581804961177601?ref_src=twsrc%5Etfw">January 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-I regret the error, but I stand by that proclamation: "The [@surface](https://twitter.com/surface) with WSL will **be** the MacBook Pro of the next decade."
-
-That's quite a bold statement, especially from an industry newbie.
-Let's break it down.
-
-## "Every Developer Needs A MacBook Pro"
-
 The 2010s marked the decade of MacBook Pro dominance.
 
 Articles and blog posts raved about OS X (fellow [Zoomers](https://www.merriam-webster.com/words-at-play/words-were-watching-zoomer-gen-z), this was macOS's old name).
 Not only was the software rock solid, but so were the laptops it shipped on.
 Operating system updates were *free*, which was an industry first for non-free software.
+
+> ### March 2021 Update
+> 
+> Reading back through this post reminds me that I was unclear about one thing: who is the Surface Laptop for?
+> At the time of this post's publication and now, it's not for me, but that does not mean it will not be for others.
+> I may have implied this in the section containing the following: "I was alternating between Windows 10 and native Linux installations (Ubuntu/Debian/Fedora/PopOS!) before this news".
+>
+> [45% of developers use Windows as their primary operating system](https://insights.stackoverflow.com/survey/2020#technology-developers-primary-operating-systems), and the intention of this post was to imply that "This Decade's Developer Laptop" will not necessarily be the *best* developer laptop, but that it *could* fill the shoes that the late-2000s/early-2010s MacBook did.
+> Could the Surface Laptop become the default option in Silicon Valley blog posts about the "best laptop"?
+> That was the question this post tried to answer.
+>
+> This post followed persuasive writing styles from academia, which might have accidentally misrepresented my personal stance on "This Decade's Developer Laptop".
+> I am always trying to reduce the ratio between my intentended arguments and how my blog posts are perceived.
+> Thus, while this was one of my most popular posts, if I had to write it again, I would ensure that this post more *exploratory* than *convictive*.
+>
+> ### July 2020 Update:
+> Apple's WWDC this year was incredible.
+> The pivot to ARM-based Apple Silicon and macOS 11 was very reassuring, as a Mac fan.
+> Moreover, the MacBook Air and MacBook Pro 13-inch have been refreshed since this article was posted, and have addressed most of the 2016-2019 lineup's issues.
+>
+> I think the core message of this article still stands: Microsoft has a potential winner on its hands with the Surface lineup.
+> Let's see how this plays out over time.
 
 Every time Steve stood onstage at WWDC, every developer tuned in to listen to every innovation at both the hardware and the software level.
 
@@ -48,8 +50,7 @@ However, many developers have come to recognize the honeymoon [might be over](ht
 
 Why though?
 What has Microsoft done to make Windows 10 (and its Surface lineup) so attractive for software development?
-
-IT'S TIME TO TIME TRAVEL!
+It's time to time travel!
 
 ## A Series Of Very Fortunate Events
 
