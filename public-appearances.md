@@ -9,8 +9,8 @@ Here is a list of tech-related talks, articles, podcasts, and anywhere permanent
 Item | Date | Content Type or Position
 --- | --- | ---
 SUSECON 2021 | May 2021 | Speaker
-[Rancher Labs Master Class: Scaling Kubernetes Nodes from Rancher](https://info.rancher.com/kubernetes-master-class-apr6-2021) *(recording is coming soon to YouTube)* | April 2021 | Master Class
-[SUSE Hack Week 2021: Rust Bootcamp](https://hackweek.suse.com/20/projects/rust-bootcamp) | March 2021 | Technical Host (instruction by [Ferrous Systems](https://ferrous-systems.com/))
+Rancher Labs Master Class: Scaling Kubernetes Nodes from Rancher | April 2021 | Master Class
+SUSE Hack Week 2021: Rust Bootcamp | March 2021 | Technical Host (instruction by [Ferrous Systems](https://ferrous-systems.com/))
 [WFU OPCD Alumni Feature](https://opcd.wfu.edu/2021/01/nick-gerace/) | January 2021 | Article
 [Tech ONTAP Podcast Episode 245: Containers, Kubernetes and Automation in Dev and QA at NetApp](https://soundcloud.com/techontap_podcast/episode-245-containers-kubernetes-and-automation-in-dev-and-qa-at-netapp) | June 2020 | Podcast
 [WFU Computer Science Alumni Page](https://cs.wfu.edu/nick-gerace-bs-may-2019/) | May 2020 | Article
